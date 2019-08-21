@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87e13479-b391-43d8-a71c-030b3e056860" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/app/apache-maven-3.5.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PeWTo50ez02sveF0p6VSWdcF4A" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MultiMapMergeTest.testMergedMap">
+    <configuration name="MultiMapMergeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mapmerge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="amdocs.challenge.mapmerge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="amdocs.challenge.mapmerge" />
+      <option name="MAIN_CLASS_NAME" value="amdocs.challenge.mapmerge.MultiMapMergeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiMapMergeTest.testCaculateFlatterMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mapmerge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="amdocs.challenge.mapmerge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="amdocs.challenge.mapmerge" />
+      <option name="MAIN_CLASS_NAME" value="amdocs.challenge.mapmerge.MultiMapMergeTest" />
+      <option name="METHOD_NAME" value="testCaculateFlatterMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiMapMergeTest.testMergeSequenceMapIntegerInteger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mapmerge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="amdocs.challenge.mapmerge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="amdocs.challenge.mapmerge" />
+      <option name="MAIN_CLASS_NAME" value="amdocs.challenge.mapmerge.MultiMapMergeTest" />
+      <option name="METHOD_NAME" value="testMergeSequenceMapIntegerInteger" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiMapMergeTest.testMergedMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mapmerge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="amdocs.challenge.mapmerge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="amdocs.challenge.mapmerge" />
+      <option name="MAIN_CLASS_NAME" value="amdocs.challenge.mapmerge.MultiMapMergeTest" />
+      <option name="METHOD_NAME" value="testMergedMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MultiMapMergeTest.testMergedMap" />
+        <item itemvalue="JUnit.MultiMapMergeTest.testCaculateFlatterMap" />
+        <item itemvalue="JUnit.MultiMapMergeTest" />
+        <item itemvalue="JUnit.MultiMapMergeTest.testMergeSequenceMapIntegerInteger" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87e13479-b391-43d8-a71c-030b3e056860" name="Default Changelist" comment="" />
+      <created>1566235052693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566235052693</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="listEntry.parallelStream()" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="hg4idea.settings">
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+</project>
